@@ -1,0 +1,14 @@
+[package]
+name = "e131"
+keywords = ["e131", "sacn", "acn", "dmx"]
+categories = ["network-programming"]
+description = "WIP Rust E1.31 (sACN) library."
+
+version = "0.1.0"
+edition = "2021"
+
+repository = "https://github.com/Foltik/E131.rs"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
